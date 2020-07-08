@@ -20,7 +20,7 @@
 
 ## :computer: Demostração
 
-<img src="https://i.imgur.com/v3izkZg.gif" alt="Demostração do Desafio">
+![img de demonstração](https://i.imgur.com/v3izkZg.gif)
 
 ## :memo: Licença
 
